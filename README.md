@@ -1,4 +1,4 @@
-# KAS_RT_App
+# KAS_RT_Apps
 
 **Anggota Kelompok :** <br>
 
