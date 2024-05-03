@@ -29,16 +29,16 @@ Jadi, aplikasi kas RT yang menggunakan JSON dan API memungkinkan untuk pertukara
 - Pengeluaran iuran dari hasil iuran warga
 - Pemanfaatan dari iuran warga untuk apa saja
 
-  - Foto warga
-- Nama pertama
-- Nama Belakang
-- Email
-- Alamat rumah
-- Jumlah iuran bulanan warga
-- Total iuran individu warga
-- Total iuran warga pada akhir rekap iuran Bulanan
-- Pengeluaran iuran dari hasil iuran warga
-- Pemanfaatan dari iuran warga untuk apa saja
+**Langkah-langkah Praktikum :**
+
+- Registrasi dan Dapatkan API Key: Daftar dan peroleh API key dari ApiSpreadsheets.
+- Identifikasi Spreadsheet: Tentukan ID spreadsheet yang berisi data keuangan KAS RT yang akan diakses oleh aplikasi Anda.
+- Buat Proyek Android: Buat proyek baru dalam lingkungan pengembangan Android Studio.
+- Desain Antarmuka Pengguna: Rencanakan dan buat desain antarmuka pengguna (UI) yang sesuai dengan rincian yang diberikan.
+- Koneksi ke API: Buat logika koneksi ke API menggunakan Retrofit atau pustaka HTTP klien lainnya dalam aplikasi Android Anda.
+- Parsing Data JSON: Implementasikan logika parsing JSON untuk mengambil data dari respons API.
+- Tampilkan Data: Tampilkan data yang diperoleh dari API ke dalam antarmuka pengguna aplikasi Android sesuai dengan rincian yang diminta.
+- Uji Aplikasi: Lakukan pengujian menyeluruh terhadap aplikasi Anda untuk memastikan bahwa semua fitur berjalan dengan baik dan data ditampilkan dengan benar.
 
   Build Gradle
 ```
