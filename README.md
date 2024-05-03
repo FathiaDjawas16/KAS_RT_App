@@ -4,7 +4,7 @@
 
 | Nama                    | NIM       | Kelas     | Mata Kuliah       |
 | ------------------------| --------- | --------- | ----------------- |
-| Frans Putra Sinaga oke     | 312210046 | TI.22.A.1 | Pemrograman Web 2 |
+| Frans Putra Sinaga      | 312210046 | TI.22.A.1 | Pemrograman Web 2 |
 | Aas Novitasari          | 312210167 | TI.22.A.1 | Pemrograman Web 2 |
 | Fathia Wardah S.Djawas  | 312210196 | TI.22.A.1 | Pemrograman Web 2 |
 
@@ -18,4 +18,27 @@ Sementara itu, API digunakan untuk mengakses dan memanipulasi data yang tersedia
 Jadi, aplikasi kas RT yang menggunakan JSON dan API memungkinkan untuk pertukaran data yang efisien antara aplikasi klien dan server, serta memungkinkan integrasi dengan layanan eksternal untuk meningkatkan fungsionalitas dan efisiensi aplikasi.
 
 **Tampilan :**
---
+- Foto warga
+- Nama pertama
+- Nama Belakang
+- Email
+- Alamat rumah
+- Jumlah iuran bulanan warga
+- Total iuran individu warga
+- Total iuran warga pada akhir rekap iuran Bulanan
+- Pengeluaran iuran dari hasil iuran warga
+- Pemanfaatan dari iuran warga untuk apa saja
+
+  - Foto warga
+- Nama pertama
+- Nama Belakang
+- Email
+- Alamat rumah
+- Jumlah iuran bulanan warga
+- Total iuran individu warga
+- Total iuran warga pada akhir rekap iuran Bulanan
+- Pengeluaran iuran dari hasil iuran warga
+- Pemanfaatan dari iuran warga untuk apa saja
+
+  Build Gradle
+```
