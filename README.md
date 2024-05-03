@@ -65,5 +65,8 @@ dependencies {
     debugImplementation("com.github.chuckerteam.chucker:library:3.3.0")
 }
 
-  Dokumentasi
 ```
+
+Dokumentasi :
+1. YouTube : 
+2. Pdf : 
