@@ -69,4 +69,4 @@ dependencies {
 
 Dokumentasi :
 1. YouTube : 
-2. Pdf : 
+2. Pdf : https://drive.google.com/file/d/1dhyZXMhS5GAjEaBwU19tEyEkrxcsxetc/view?usp=drivesdk
