@@ -68,5 +68,5 @@ dependencies {
 ```
 
 Dokumentasi :
-1. YouTube : 
+1. YouTube : https://youtu.be/ECawWFLfcnU?si=D6KjU-_RrHshAEZO
 2. Pdf : https://drive.google.com/file/d/1dhyZXMhS5GAjEaBwU19tEyEkrxcsxetc/view?usp=drivesdk
